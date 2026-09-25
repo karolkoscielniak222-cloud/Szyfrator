@@ -1,0 +1,5 @@
+{
+  "wersja": "1.2",
+  "opis": "• Wersja stabilna 1.2 PRO\n• Wprowadzono bezpieczne szyfrowanie XOR + PBKDF2\n• Dodano moduł automatycznych aktualizacji",
+  "url": "https://github.com/karolkoscielniak222-cloud/Szyfrator/releases"
+}
