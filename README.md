@@ -23,24 +23,3 @@ z wykorzystaniem XOR, PBKDF2-HMAC-SHA256 oraz HMAC-SHA256.
 
 > ⚠️ Hasło jest niezbędne do odszyfrowania wiadomości.
 > Nie udostępniaj go razem z szyfrogramem.
-
----
-
-## 🛠️ Dla programistów
-
-Kod źródłowy programu znajduje się w pliku `szyfrator.py`.
-
-Projekt wykorzystuje wyłącznie bibliotekę standardową Pythona.
-
-### Zastosowane mechanizmy
-
-- XOR – szyfrowanie danych
-- PBKDF2-HMAC-SHA256 – wyprowadzanie klucza z hasła
-- HMAC-SHA256 – kontrola integralności
-- losowa sól 128-bitowa
-- Base64 – reprezentacja szyfrogramu
-
-### 🐍 Uruchomienie ze źródeł
-
-```bash
-python szyfrator.py
