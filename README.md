@@ -23,3 +23,5 @@ z wykorzystaniem XOR, PBKDF2-HMAC-SHA256 oraz HMAC-SHA256.
 
 > ⚠️ Hasło jest niezbędne do odszyfrowania wiadomości.
 > Nie udostępniaj go razem z szyfrogramem.
+
+Copyright © 2026 Karol Kościelniak.
